@@ -10,6 +10,7 @@ public class Main {
 
         System.out.println("Hello world5hot-fix!");
         System.out.println("push test!");
+        System.out.println("push test2!");
 
     }
 }
