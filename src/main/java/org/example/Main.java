@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Hello world5master!");
 
         System.out.println("Hello world5hot-fix!");
+        System.out.println("push test!");
 
     }
 }
